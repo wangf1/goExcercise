@@ -1,5 +1,6 @@
 package add2nums
 
+// ListNode is ...
 type ListNode struct {
 	Val  int
 	Next *ListNode
